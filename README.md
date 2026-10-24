@@ -82,9 +82,6 @@ All parts are standard and locally available.
 
 ## Team
 
-- _Name, role_
-- _Faculty guide: name, department, institute_
+- _Hariharasudhan D, Sivapiriyan A R, Sridarshan A, Adhavan M_
+- _Sri Ramakrishna Engineering College_
 
-## License
-
-_Add a license (e.g. MIT)._
